@@ -1,0 +1,1 @@
+# nanograd is neural network framwork which help developer to build AI system faster currently we are developing this but fully build if you want to contribute please fork the project and start to contribute... happy code
